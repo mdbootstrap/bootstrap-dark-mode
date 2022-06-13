@@ -100,5 +100,22 @@ ___
 <li><a href="https://mdbootstrap.com/docs/standard/extended/to-do-list/">Bootstrap To Do List</a></li>  
 <li><a href="https://mdbootstrap.com/docs/standard/extended/video-carousel/">Bootstrap Video Carousel / Gallery</a></li>  
 <li><a href="https://mdbootstrap.com/docs/standard/extended/weather/">Bootstrap Weather</a></li>  
+  <li><a href="https://mdbootstrap.com/docs/standard/extended/padding/">Bootstrap Padding</a></li>  
+  <li><a href="https://mdbootstrap.com/docs/standard/extended/modal-size/">Bootstrap Modal Size</a></li>  
+  <li><a href="https://mdbootstrap.com/docs/standard/extended/modal-methods/">Bootstrap Modal Methods</a></li>  
+  <li><a href="https://mdbootstrap.com/docs/standard/extended/modal-backdrop/">Bootstrap Modal Backdrop</a></li>  
+  <li><a href="https://mdbootstrap.com/docs/standard/extended/card-deck/">Bootstrap Card Deck</a></li>  
+  <li><a href="https://mdbootstrap.com/docs/standard/extended/table-filter/">Bootstrap Table Filter</a></li>  
+  <li><a href="https://mdbootstrap.com/docs/standard/extended/slider/">Bootstrap Slider</a></li>  
+  <li><a href="https://mdbootstrap.com/docs/standard/extended/logo/">Bootstrap Logo</a></li>  
+  <li><a href="https://mdbootstrap.com/docs/standard/extended/popup/">Bootstrap Popup</a></li>  
+  <li><a href="https://mdbootstrap.com/docs/standard/extended/max-width/">Bootstrap Max Width</a></li>  
+  <li><a href="https://mdbootstrap.com/docs/standard/extended/hero/">Bootstrap Hero</a></li>  
+  <li><a href="https://mdbootstrap.com/docs/standard/extended/select-dropdown/">Bootstrap Select Dropdown</a></li>  
+  <li><a href="https://mdbootstrap.com/docs/standard/extended/labels/">Bootstrap Labels</a></li>  
+  <li><a href="https://mdbootstrap.com/docs/standard/extended/dialog/">Bootstrap Dialog</a></li>  
+  <li><a href="https://mdbootstrap.com/docs/standard/extended/screen-sizes/">Bootstrap Screen Sizes</a></li>  
+  <li><a href="https://mdbootstrap.com/docs/standard/extended/dropdown-button/">Bootstrap Dropdown Button</a></li>  
+  <li><a href="https://mdbootstrap.com/docs/standard/extended/widgets/">Bootstrap Widgets</a></li>  
 </ul>
 
