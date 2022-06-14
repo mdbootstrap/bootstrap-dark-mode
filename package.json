@@ -1,0 +1,20 @@
+{
+  "name": "bootstrap-dark-mode",
+  "version": "1.0.1",
+  "description": "Responsive Dark Mode theme built with Bootstrap 5 with Dark Mode toggle button that switches between dark and light themes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-dark-mode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-dark-mode/issues"
+  },
+  "homepage": "https://github.com/mdbootstrap/bootstrap-dark-mode#readme"
+}
