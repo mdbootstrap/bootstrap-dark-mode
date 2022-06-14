@@ -1,8 +1,8 @@
 {
-  "name": "bootstrap-dark-mode",
+  "name": "@mdbootstrap/bootstrap-dark-mode",
   "version": "1.0.1",
   "description": "Responsive Dark Mode theme built with Bootstrap 5 with Dark Mode toggle button that switches between dark and light themes.",
-  "main": "index.js",
+  "main": "basic.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
